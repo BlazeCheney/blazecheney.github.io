@@ -1,2 +1,1 @@
-Blaze Cheney
-个人网站
+Blaze Cheney 个人简介
